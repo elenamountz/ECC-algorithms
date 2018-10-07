@@ -1,7 +1,7 @@
-### ECC Algorithms:
+### ECC cryptosystems:
 
-1. ECDH
+1. KeyGeneration
 
-2. ECDSA
+2. Elliptic Curve Diffie-Hellman (ECDH) - Key exchange
 
-3. El Gamal
+3. El Gamal cryptosystem with Koblitz message encoding
