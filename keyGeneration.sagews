@@ -1,4 +1,3 @@
-︠1faa9f85-a6ba-492d-92dd-1f67d8c27053︠
 p = int(input("p ="))
 a = int(input("a ="))
 b = int(input("b ="))
@@ -16,20 +15,3 @@ Q = d*P
 print "The public key Q is: ", Q
 key = (d,Q)
 print "The key pair (d,Q) is: ", key
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
